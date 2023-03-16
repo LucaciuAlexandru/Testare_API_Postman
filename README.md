@@ -15,7 +15,7 @@ TitleSearchTest
 Testing to see if the data is shown if searched for title.
 ![OMDb_API_Titile_Search_Test](https://user-images.githubusercontent.com/126612458/225627121-50800def-00b8-4ba4-ab22-bb2879075275.jpg)
 TypeTest
-Testing to see if the data is shown in different data type, for example: xml.
+Testing to see if the data is shown if you search the type: series.
 ![OMDb_API_Type_Test](https://user-images.githubusercontent.com/126612458/225627155-2b1a192b-6155-4106-9548-d9c32623bb2c.jpg)
 SearchByYearTest
 Testing to see if the data is shown from the year that the user wants.
